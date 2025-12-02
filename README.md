@@ -1,2 +1,2 @@
-# Aplikasi-Resep-Masak
+# CookEasy
 Menampilkan langkah-langkah memasak yang jelas dan terstruktur sehingga pengguna lebih mudah mengikuti proses memasak.
