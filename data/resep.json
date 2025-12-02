@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nama": "Nasi Goreng Spesial",
+    "bahan": [
+      "2 piring nasi putih",
+      "2 siung bawang merah",
+      "1 siung bawang putih",
+      "1 butir telur"
+    ],
+    "langkah": [
+      "Haluskan bawang merah dan putih.",
+      "Tumis bumbu halus hingga harum.",
+      "Masukkan telur, orak-arik.",
+      "Masukkan nasi, aduk rata.",
+      "Tambahkan kecap dan garam, sajikan."
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Sayur Asem",
+    "bahan": [
+      "1 ikat kacang panjang",
+      "1 buah jagung",
+      "1/2 labu siam",
+      "Bumbu sayur asem instan"
+    ],
+    "langkah": [
+      "Didihkan air.",
+      "Masukkan jagung dan bumbu instan.",
+      "Masukkan sayuran lain, masak hingga matang.",
+      "Koreksi rasa."
+    ]
+  }
+]
