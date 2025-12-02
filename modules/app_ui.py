@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 DATA_FILE = 'data/resep.json'
 ctk.set_appearance_mode("System")  # Pilihan: "System", "Dark", "Light"
 ctk.set_default_color_theme("blue")
-
+print("hello world")
 # --- HANDLER JSON ---
 def muat_resep():
     """Memuat data resep dari file JSON. Mengembalikan list kosong jika gagal."""
